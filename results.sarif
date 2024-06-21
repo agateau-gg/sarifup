@@ -212,7 +212,7 @@
               "id": 0,
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///home/agateau/src/titanic/api.conf"
+                  "uri": "api.conf"
                 },
                 "region": {
                   "startLine": 1,
@@ -229,7 +229,7 @@
               "id": 1,
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///home/agateau/src/titanic/api.conf"
+                  "uri": "api.conf"
                 },
                 "region": {
                   "startLine": 2,
